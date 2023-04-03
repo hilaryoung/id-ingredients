@@ -1,0 +1,1227 @@
+[
+    {
+      "id": 1,
+      "enName": "Salt",
+      "idName": "Garam",
+      "enType": "Spice & Herbs", 
+      "idType": "Bumbu & Rempah"
+    },
+    {
+      "id": 2,
+      "enName": "Black pepper",
+      "idName": "Lada hitam",
+      "enType": "Spice & Herbs", 
+      "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 3,
+        "enName": "Cloves",
+        "idName": "Cengkih",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 4,
+        "enName": "Cinnamon",
+        "idName": "Kayu manis",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 5,
+        "enName": "Vanilla",
+        "idName": "Vanili",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 6,
+        "enName": "Cardamom",
+        "idName": "Kapulaga",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 7,
+        "enName": "Nutmeg",
+        "idName": "Pala",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 8,
+        "enName": "Aleurites moluccana",
+        "idName": "Kemiri",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 9,
+        "enName": "Lemongrass",
+        "idName": "Serai",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 10,
+        "enName": "Foeniculum vulgare",
+        "idName": "Adas",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 11,
+        "enName": "Corriander ",
+        "idName": "Ketumbar",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 12,
+        "enName": "Ginger",
+        "idName": "Jahe",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 13,
+        "enName": "Galangal",
+        "idName": "Lengkuas",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 14,
+        "enName": "Curcuma longa",
+        "idName": "Kunyit",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 15,
+        "enName": "Kaempferia galangal",
+        "idName": "Kencur",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 16,
+        "enName": "Pangium edule",
+        "idName": "Kepayang",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 17,
+        "enName": "Chives",
+        "idName": "Lokio",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 18,
+        "enName": "Basil",
+        "idName": "Kemangi",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 19,
+        "enName": "Pandan",
+        "idName": "Pandan",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 20,
+        "enName": "Indonesian bay leaves",
+        "idName": "Daun salam",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 21,
+        "enName": "Tamarind",
+        "idName": "Asam jawa",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 22,
+        "enName": "Oregano",
+        "idName": "Oregano",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 23,
+        "enName": "Sambal bajak",
+        "idName": "Sambal bajak",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 24,
+        "enName": "Chili pepper",
+        "idName": "Cabai merah",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 25,
+        "enName": "Bird's eye chili",
+        "idName": "Cabai rawit",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 26,
+        "enName": "Red curly chili",
+        "idName": "Cabai Merah Keriting",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 27,
+        "enName": "Rica green chilli",
+        "idName": "Cabai hijau",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 28,
+        "enName": "Habanero",
+        "idName": "Cabai gendol",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 29,
+        "enName": "Jalapeno",
+        "idName": "Jalapeno",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 30,
+        "enName": "Rainbow chili",
+        "idName": "Cabai pelangi",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 30,
+        "enName": "Pimiento",
+        "idName": "Cabai ceri",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 31,
+        "enName": "Paprika",
+        "idName": "Paprika",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 32,
+        "enName": "Cayenne pepper",
+        "idName": "Cabai Cayenne",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 33,
+        "enName": "Serrano pepper",
+        "idName": "Cayenne serrano",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 34,
+        "enName": "Capsicum",
+        "idName": "Cabai tepin",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 35,
+        "enName": "Piper retrofractum",
+        "idName": "Cabai jawa",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 36,
+        "enName": "Mint leaves",
+        "idName": "Daun mint",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 37,
+        "enName": "Marjoram leaves",
+        "idName": "Daun Marjoram",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 38,
+        "enName": "saffron",
+        "idName": "Kuma Kuma",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 39,
+        "enName": "Fenugreek leaves",
+        "idName": "Daun fenugreek",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 40,
+        "enName": "Onion seed",
+        "idName": "Biji bawang",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 41,
+        "enName": "Masala salt",
+        "idName": "Garam masala",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 42,
+        "enName": "Fennel",
+        "idName": "Adas",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 43,
+        "enName": "Ginger powder",
+        "idName": "Bubuk jahe",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 44,
+        "enName": "White pepper",
+        "idName": "Lada putih",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 45,
+        "enName": "Red onion",
+        "idName": "Bawang merah",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 46,
+        "enName": "Onion",
+        "idName": "Bawang putih",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 47,
+        "enName": "Caraway seeds",
+        "idName": "Biji jintan",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 48,
+        "enName": "Cajun",
+        "idName": "Cajun",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 49,
+        "enName": "Rock salt",
+        "idName": "Garam kasar",
+        "enType": "Sugar products", 
+        "idType": "Produk gula"
+    },
+    {
+        "id": 50,
+        "enName": "Brown sugar",
+        "idName": "Gula merah",
+        "enType": "Sugar products", 
+        "idType": "Produk gula"
+    },
+    {
+        "id": 51,
+        "enName": "Lime leavesz",
+        "idName": "Daun jeruk",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 52,
+        "enName": "Dried shrimp paste",
+        "idName": "Terasi",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 53,
+        "enName": "Acacia",
+        "idName": "Akasia",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 54,
+        "enName": "Sesame",
+        "idName": "Wijen",
+        "enType": "Nuts & Oil Seeds", 
+        "idType": "Kacang & Biji Minyak"
+    },
+    {
+        "id": 55,
+        "enName": "Kemukus",
+        "idName": "Kemukus",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 56,
+        "enName": "Biancaea sappan",
+        "idName": "Kayu Secang",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 57,
+        "enName": "Pangium",
+        "idName": "Kluwek",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 58,
+        "enName": "Zanthoxylum acanthopodium",
+        "idName": "Andaliman",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 59,
+        "enName": "Cumin",
+        "idName": "Jinten",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 60,
+        "enName": "Ajwain",
+        "idName": "Ajwain",
+        "enType": "Spice & Herbs", 
+        "idType": "Bumbu & Rempah"
+    },
+    {
+        "id": 61,
+        "enName": "Jackfruit",
+        "idName": "Nangka",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 62,
+        "enName": "Durian",
+        "idName": "Durian",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 63,
+        "enName": "Mango",
+        "idName": "Mangga",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 64,
+        "enName": "Rambutans",
+        "idName": "Rambutan",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 65,
+        "enName": "Mangosteen",
+        "idName": "Manggis",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 66,
+        "enName": "Pomelo",
+        "idName": "Jeruk bali",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 67,
+        "enName": "Pometia pinnata",
+        "idName": "Matoa",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 68,
+        "enName": "Woromo",
+        "idName": "Woromo",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 69,
+        "enName": "Pala fakfak",
+        "idName": "Pala fakfak",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 70,
+        "enName": "Pandanus conoideus",
+        "idName": "Buah merah",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 71,
+        "enName": "Rabon bi",
+        "idName": "Rabon bi",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 72,
+        "enName": "Water apple",
+        "idName": "Jambu Air",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 73,
+        "enName": "Guajava",
+        "idName": "Jambu Biji",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 74,
+        "enName": "Longan",
+        "idName": "Kelengkeng",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 75,
+        "enName": "Srikaya",
+        "idName": "Srikaya",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 76,
+        "enName": "Kiwi",
+        "idName": "Kiwi",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 77,
+        "enName": "Watermelon",
+        "idName": "Semangka",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 78,
+        "enName": "Blueberry",
+        "idName": "Bluberi",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 79,
+        "enName": "Tomato",
+        "idName": "Tomat",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 80,
+        "enName": "Strawberry",
+        "idName": "Stroberi",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 81,
+        "enName": "Papaya",
+        "idName": "Pepaya",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 82,
+        "enName": "Orange",
+        "idName": "Jeruk",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 83,
+        "enName": "Olives",
+        "idName": "Zaitun",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 84,
+        "enName": "Pear",
+        "idName": "Pir",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 85,
+        "enName": "Lemon",
+        "idName": "Lemon",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 86,
+        "enName": "Raisins",
+        "idName": "Kismis",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 87,
+        "enName": "Lychee",
+        "idName": "Leci",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 88,
+        "enName": "Pineapple",
+        "idName": "Nanas",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 89,
+        "enName": "Banana",
+        "idName": "Pisang",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 90,
+        "enName": "Avocado",
+        "idName": "Alpukat",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 91,
+        "enName": "Dragon fruit",
+        "idName": "Buah naga",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 92,
+        "enName": "Blackberry",
+        "idName": "Beri hitam",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 93,
+        "enName": "Blackcurrant",
+        "idName": "Blackcurrant",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 94,
+        "enName": "Goji berry",
+        "idName": "Goji berry",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 95,
+        "enName": "Lingonberry",
+        "idName": "Lingonberry",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 96,
+        "enName": "Buni fruit",
+        "idName": "Buah buni",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 97,
+        "enName": "Cempedak",
+        "idName": "Cempedak",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 98,
+        "enName": "Physalis",
+        "idName": "Ciplukan",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 99,
+        "enName": "Gandaria",
+        "idName": "Gandaria",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 100,
+        "enName": "Gowok fruit",
+        "idName": "Buah gowok",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 101,
+        "enName": "Jamblang fruit",
+        "idName": "Jamblang fruit",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 102,
+        "enName": "Keledang fruit",
+        "idName": "Buah keledang",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 103,
+        "enName": "Kelubi fruit",
+        "idName": "Buah kelubi",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 104,
+        "enName": "Mentawa fruit ",
+        "idName": "Buah mentawa",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 105,
+        "enName": "Karusung fruit",
+        "idName": "Buah karusung",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 106,
+        "enName": "Kemang fruit",
+        "idName": "Buah kemang",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 107,
+        "enName": "Kemayau",
+        "idName": "Kemayau",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 108,
+        "enName": "Kemunting",
+        "idName": "Kemunting",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 109,
+        "enName": "Lahung",
+        "idName": "Lahung",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 110,
+        "enName": "Lai fruit",
+        "idName": "Buah lai",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 111,
+        "enName": "Plum",
+        "idName": "Lobi-lobi",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 112,
+        "enName": "Manau",
+        "idName": "Manau",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 113,
+        "enName": "Matoa",
+        "idName": "Matoa",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 114,
+        "enName": "",
+        "idName": "",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 115,
+        "enName": "Mundu fruit",
+        "idName": "Buah mandu",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 116,
+        "enName": "Rukem",
+        "idName": "Rukem",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 117,
+        "enName": "Rumbia",
+        "idName": "Rumbia",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 118,
+        "enName": "Rambusa",
+        "idName": "Rambusa",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 119,
+        "enName": "Dewandaru",
+        "idName": "Dewandaru",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 120,
+        "enName": "Bisbul",
+        "idName": "Bisbul",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 121,
+        "enName": "Kepel",
+        "idName": "Kepel",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 122,
+        "enName": "Cucumber",
+        "idName": "MCucumber",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 123,
+        "enName": "Paprica",
+        "idName": "Paprika",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 124,
+        "enName": "Peas",
+        "idName": "Kacang polong",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 125,
+        "enName": "Eggplant",
+        "idName": "Terung",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 126,
+        "enName": "Walnut",
+        "idName": "Kenari",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 127,
+        "enName": "Satsuma",
+        "idName": "Satsuma",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 128,
+        "enName": "Tangerine",
+        "idName": "Jeruk medan",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 129,
+        "enName": "Clementine",
+        "idName": "Clementine",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 130,
+        "enName": "Clementine",
+        "idName": "Jeruk nipis",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 131,
+        "enName": "Kaffir lime",
+        "idName": "Jeruk purut",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 132,
+        "enName": "Mandarin orange",
+        "idName": "Jeruk mandarin",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 133,
+        "enName": "Star fruit",
+        "idName": "Belimbing",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 134,
+        "enName": "Grape",
+        "idName": "Anggur",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 135,
+        "enName": "Tamarind",
+        "idName": "Asam",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 136,
+        "enName": "Cantaloupe",
+        "idName": "Buah blewah",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 137,
+        "enName": "Cermai",
+        "idName": "Buah cermai",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 138,
+        "enName": "Cashew",
+        "idName": "Kacang mede",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 139,
+        "enName": "Kawista",
+        "idName": "Kawista",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 140,
+        "enName": "Maja fruit",
+        "idName": "Buah maja",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 141,
+        "enName": "Ambarella",
+        "idName": "Kedondong",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 142,
+        "enName": "Coconut",
+        "idName": "Kelapa",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 143,
+        "enName": "Kersen",
+        "idName": "Kersen",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 144,
+        "enName": "Passion fruit",
+        "idName": "Markisa",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 145,
+        "enName": "Melon",
+        "idName": "Melon",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 146,
+        "enName": "Noni",
+        "idName": "Mengkudu",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 147,
+        "enName": "Namnam fruit",
+        "idName": "Sawo pancukan",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 148,
+        "enName": "Snake fruit",
+        "idName": "Salak",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 149,
+        "enName": "Chico fruit",
+        "idName": "Sawo manila",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 150,
+        "enName": "Soursop",
+        "idName": "Sirsak",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 151,
+        "enName": "Apricot",
+        "idName": "Aprikot",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 152,
+        "enName": "Breadfruit",
+        "idName": "Buah sukun",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 153,
+        "enName": "Cherry",
+        "idName": "Buah Ceri",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 154,
+        "enName": "Date",
+        "idName": "Kurma",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 155,
+        "enName": "Fig",
+        "idName": "Tin",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 156,
+        "enName": "Jicama",
+        "idName": "Bengkoang",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 157,
+        "enName": "Loquat",
+        "idName": "Buah biwa",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 158,
+        "enName": "Peach",
+        "idName": "Buah Persik",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 159,
+        "enName": "Persimmon",
+        "idName": "Kesemek",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 160,
+        "enName": "Plum",
+        "idName": "Buah prem",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 161,
+        "enName": "Rose apple",
+        "idName": "Jambu mawar",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 162,
+        "enName": "Honeydew",
+        "idName": "Melon madu",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 163,
+        "enName": "Egg fruit",
+        "idName": "Sawo ubi",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 164,
+        "enName": "Cocoa",
+        "idName": "Coklat",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 165,
+        "enName": "Palm fruit",
+        "idName": "Buah sawit",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 166,
+        "enName": "Enau",
+        "idName": "Aren",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 167,
+        "enName": "Almond",
+        "idName": "Almond",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 168,
+        "enName": "Nectarine",
+        "idName": "Nektarin",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 169,
+        "enName": "Taro",
+        "idName": "Talas",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 170,
+        "enName": "Apple",
+        "idName": "Apel",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 171,
+        "enName": "Langsat",
+        "idName": "Langsat",
+        "enType": "Fruits", 
+        "idType": "Buah-buahan"
+    },
+    {
+        "id": 172,
+        "enName": "Beef",
+        "idName": "Daging sapi",
+        "enType": "Meat", 
+        "idType": "Daging"
+    },
+    {
+        "id": 173,
+        "enName": "Ground beef",
+        "idName": "Daging giling",
+        "enType": "Meat", 
+        "idType": "Daging"
+    },
+    {
+        "id": 174,
+        "enName": "Beef ribs",
+        "idName": "Iga sapi",
+        "enType": "Meat", 
+        "idType": "Daging"
+    }
+]
